@@ -42,5 +42,5 @@ Vậy mục đích của bạn là gì?
 
 <small>Bạn nên vào group chat Facebook để giao lưu, group chat tui có nhiều người chơi kì cựu có thể giúp bạn giải đáp nhiều thắc mắc :) và chơi 1 mình rất mau chán!</small>
 
-Sau khi đã biết mình chơi để làm gì thì cùng đến phần mục tiếp theo là giao diện cơ bản của game và ý nghĩa của chúng đọc tiếp ở [Bảng thông tin người chơi](https://vuongrand.github.io) để biết thêm.
+Sau khi đã biết mình chơi để làm gì thì cùng đến phần mục tiếp theo là giao diện cơ bản của game và ý nghĩa của chúng đọc tiếp ở [Hướng dẫn cơ bản](https://vuongrand.github.io/docs/hdcb) để biết thêm.
 
