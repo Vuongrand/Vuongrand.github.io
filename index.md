@@ -2,95 +2,45 @@
 layout: default
 title: Home
 nav_order: 1
-description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
+description: "Sơ lược về trang và nội dung"
 permalink: /
 ---
 
-# Focus on writing good documentation
+# Giới thiệu chung
 {: .fs-9 }
 
-Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
+Sơ lược về trang và nội dung
 {: .fs-6 .fw-300 }
 
-[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/pmarsceill/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
+[TORN là gì](#torn-sơ-lược){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Đăng kí](https://www.torn.com/2042404){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
-## Getting started
+## TORN sơ lược
 
-### Dependencies
+### TORN là gì?
 
-Just the Docs is built for [Jekyll](https://jekyllrb.com), a static site generator. View the [quick start guide](https://jekyllrb.com/docs/) for more information. Just the Docs requires no special plugins and can run on GitHub Pages' standard Jekyll compiler. The [Jekyll SEO Tag plugin](https://github.com/jekyll/jekyll-seo-tag) is included by default (no need to run any special installation) to inject SEO and open graph metadata on docs pages. For information on how to configure SEO and open graph metadata visit the [Jekyll SEO Tag usage guide](https://jekyll.github.io/jekyll-seo-tag/usage/).
+TORN là một thế giới ảo nhưng cũng vừa là một thế giới rất thực, tất cả mọi thứ trong TORN phần lớn giống với ngoài xã hội. Như ăn cướp để kiếm tiền, nhà ở, công ty, chứng khoán. TORN cuốn hút người chơi bằng tính thực tế của nó, có rất nhiều người chơi TORN ở khắp trên toàn thế giới, nhiều người say mê nó trong đó có tôi. Thậm chí còn có những người nói rằng họ sẽ chơi TORN cho đến khi nào chết. 
 
-### Quick start: Use as a GitHub Pages remote theme
+TORN là một thế giới bất tận nhiều màu sắc. Khi chơi TORN bạn không cần phải tốn nhiều thời gian mà cũng có thể làm được những gì mà ở ngoài đời có dúi cho 1,000,000 USD bạn cũng chẳng dám làm như cướp ngân hàng, đặt bom tòa thị chính, bắt cóc thị trưởng, cướp máy bay, giết người, ... 
 
-1. Add Just the Docs to your Jekyll site's `_config.yml` as a [remote theme](https://blog.github.com/2017-11-29-use-any-theme-with-github-pages/)
-```yaml
-remote_theme: pmarsceill/just-the-docs
-```
-<small>You must have GitHub Pages enabled on your repo, one or more Markdown files, and a `_config.yml` file. [See an example repository](https://github.com/pmarsceill/jtd-remote)</small>
+Trong đây, bạn có thể tạo ra một thứ gì đó là quyền lực của riêng bạn và nếu bạn là một người yêu thích thể loại game Text-based RPG thì không thể bỏ qua được TORN.
 
-### Local installation: Use the gem-based theme
+### Cách đăng kí TORN
 
-1. Install the Ruby Gem
-```bash
-$ gem install just-the-docs
-```
-```yaml
-# .. or add it to your your Jekyll site’s Gemfile
-gem "just-the-docs"
-```
-2. Add Just the Docs to your Jekyll site’s `_config.yml`
-```yaml
-theme: "just-the-docs"
-```
-3. _Optional:_ Initialize search data (creates `search-data.json`)
-```bash
-$ bundle exec just-the-docs rake search:init
-```
-3. Run you local Jekyll server
-```bash
-$ jekyll serve
-```
-```bash
-# .. or if you're using a Gemfile (bundler)
-$ bundle exec jekyll serve
-```
-4. Point your web browser to [http://localhost:4000](http://localhost:4000)
+Ấn vào nút Đăng kí ở trên để qua trang chủ của game, sau đó chọn Register nhập Email và mật khẩu sau đó xác nhận tài khoản trong hòm thư.
 
-If you're hosting your site on GitHub Pages, [set up GitHub Pages and Jekyll locally](https://help.github.com/en/articles/setting-up-your-github-pages-site-locally-with-jekyll) so that you can more easily work in your development environment.
+<small>Điền mã giới thiệu mình 2042404 để ủng hộ cũng được.</small>
 
-### Configure Just the Docs
 
-- [See configuration options]({{ site.baseurl }}{% link docs/configuration.md %})
+## Làm gì sau khi tạo tài khoản? 
+Trước hết phải xác định mục đích chơi game của bạn là gì?
 
----
+Mục đích của game là trở thành người mạnh nhất, giàu nhất, có công ty to nhất, ở nhà xịn nhất, lái xe nhanh nhất, dẫn dắt băng đảng mạnh nhất, hoàn thành nhiều nhiệm vụ nhất, phạm pháp nhiều nhất và là người có chỉ số khủng nhất, mạnh nhất trong TORN, hoặc đơn giản chỉ là kết thêm nhiều bạn khắp thế giới.
 
-## About the project
+Vậy mục đích của bạn là gì?
 
-Just the Docs is &copy; 2017-{{ "now" | date: "%Y" }} by [Patrick Marsceill](http://patrickmarsceill.com).
+<small>Bạn nên vào group chat Facebook để giao lưu, group chat tui có nhiều người chơi kì cựu có thể giúp bạn giải đáp nhiều thắc mắc :) và chơi 1 mình rất mau chán!</small>
 
-### License
+Sau khi đã biết mình chơi để làm gì thì cùng đến phần mục tiếp theo là giao diện cơ bản của game và ý nghĩa của chúng đọc tiếp ở [Bảng thông tin người chơi](https://vuongrand.github.io) để biết thêm.
 
-Just the Docs is distributed by an [MIT license](https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt).
-
-### Contributing
-
-When contributing to this repository, please first discuss the change you wish to make via issue,
-email, or any other method with the owners of this repository before making a change. Read more about becoming a contributor in [our GitHub repo](https://github.com/pmarsceill/just-the-docs#contributing).
-
-#### Thank you to the contributors of Just the Docs!
-
-<ul class="list-style-none">
-{% for contributor in site.github.contributors %}
-  <li class="d-inline-block mr-1">
-     <a href="{{ contributor.html_url }}"><img src="{{ contributor.avatar_url }}" width="32" height="32" alt="{{ contributor.login }}"/></a>
-  </li>
-{% endfor %}
-</ul>
-
-### Code of Conduct
-
-Just the Docs is committed to fostering a welcoming community.
-
-[View our Code of Conduct](https://github.com/pmarsceill/just-the-docs/tree/master/CODE_OF_CONDUCT.md) on our GitHub repository.
