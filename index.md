@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Home
+title: Trang chủ
 nav_order: 1
-description: "Sơ lược về trang và nội dung"
+description: "Sơ lược về game"
 permalink: /
 ---
 
