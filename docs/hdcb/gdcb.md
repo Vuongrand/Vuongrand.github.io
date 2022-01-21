@@ -5,6 +5,7 @@ title: Giao diện chung
 parent: Hướng dẫn cơ bản
 nav_order: 1
 ---
+
 ### Bảng thông tin người chơi
 
  ![.](https://i.imgur.com/rUTRJP3.png)      
