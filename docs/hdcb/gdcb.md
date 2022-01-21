@@ -81,3 +81,34 @@ Bạn có thể tăng Nerve bar bằng cách dùng Merits để cộng.
 
 Nerve hồi 5 phút 1 điểm.
 
+### Thanh vui vẻ (Happiness Bar)
+
+![.](https://i.imgur.com/TMENZXW.png)
+
+Happy ảnh hưởng đến rất nhiều thứ trong TORN nhưng hầu hết mọi người không nhận ra mà chỉ nhìn thấy ảnh hưởng của nó đến việc Training. Ngoài ra Happy còn ảnh hưởng đến: Effectiveness (Công ty), Tỷ lệ thành công khi Crime, ...
+
+Có 2 cách để làm tăng Happiness bar:
+
+- Housing: Bằng cách ở trong các ngôi nhà xịn có thể làm tăng Happiness bar của bạn!
+
+- Drugs: Bằng cách sử dụng một số loại thuốc kích thích như Ecstasy, Shrooms, PCP, ... có thể làm tăng Happiness bar của bạn! (tạm thời).
+
+Happiness bar hồi giống như Energy bar khi không Donator.
+
+### Thanh sinh lực (Life Bar)
+
+![.](https://i.imgur.com/MdfvAKh.png)
+
+Health Point: Khởi điểm bạn có 500 HP. Cứ mỗi Level bạn được tăng một lượng HP bằng Level hiện tại nhân 50. Ví dụ: Bạn từ level 4 lên level 5 thì lượng HP được tăng thêm = 5 x 50 = 250 HP.
+
+HP sẽ hồi 1/5 tổng số máu mỗi 15 phút
+
+Nếu nhà bạn đang sống mà có bác sĩ riêng thì số máu hồi được sẽ là 1/4.
+
+Bạn có thể tăng tốc độ hồi máu thêm 3% khi làm việc ở Fitness Center.
+
+## Kết
+
+Phần giao diện cơ bản đến đây là hết, mời bạn đến phần tiếp theo là [Sự nghiệp](https://vuongrand.github.io/)
+
+Chúc bạn ngày tốt lành!
