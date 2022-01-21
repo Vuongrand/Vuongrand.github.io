@@ -8,7 +8,7 @@ nav_order: 1
 # Giao diện cơ bản
 {: .no_toc }
 
-### Bảng thông tin người chơi
+## Bảng thông tin người chơi
 
  ![.](https://i.imgur.com/rUTRJP3.png)      
  
@@ -24,7 +24,7 @@ nav_order: 1
 
 Sau đó có 4 thanh ngang với 4 màu khác nhau.
 
-#### Thanh năng lượng (Energy bar)
+### Thanh năng lượng (Energy bar)
 
 Có thể nói là thanh tài nguyên quan trọng nhất của game, mọi thứ trong TORN đề xoay quanh cái thanh này, muốn giàu mạnh thì cần phải dùng chúng hợp lí.
 
