@@ -8,5 +8,5 @@ permalink: /docs/hdcb
 
 # Hướng dẫn cơ bản
 
-To make it as easy as possible to write documentation in plain Markdown, most UI components are styled using default Markdown elements with few additional CSS classes needed.
+Dưới đây là hướng dẫn cơ bản cho người mới, được chia ra nhiều mục nhỏ để tiện theo dõi.
 {: .fs-6 .fw-300 }
