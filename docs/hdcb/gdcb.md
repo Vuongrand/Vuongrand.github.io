@@ -1,10 +1,12 @@
-
 ---
 layout: default
-title: Giao diện chung
+title: Giao diện cơ bản
 parent: Hướng dẫn cơ bản
 nav_order: 1
 ---
+
+# Giao diện cơ bản
+{: .no_toc }
 
 ### Bảng thông tin người chơi
 
