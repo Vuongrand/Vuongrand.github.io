@@ -104,9 +104,23 @@ Nếu người tấn công thua, thì sẽ bị đưa vào bệnh viện trong 1
 
 Sau 5 phút, nếu bất phân thắng bại, người tấn công sẽ bị gửi vào viện giống với thua trận.
 
-#### Bị gián đoạn
-
+### Bị gián đoạn
 Trận đánh có thể bị gián đoạn từ nhiều yếu tố. Các yếu tố đó sẽ tính là tấn công thành công hoặc thất bại, hòa, ...
 
-- <Người chơi> đánh bại đối thủ của bạn. (took down your opponent).
+- <Người chơi> đánh bại đối thủ của bạn.
+
+Nếu mục tiêu của bạn đanh đánh một người chơi khác và người đó đánh bại mục tiêu của bạn. Kết quả sẽ là như trên.
+
+- <Mục tiêu> đã bị đánh bại bởi <Người chơi> 
+
+Nếu nhiều người chơi cùng tấn công một mục tiêu, người kết liễu sẽ thắng và tất cả những người còn lại sẽ nhận được kết quả như trên.
+
+- <Mục tiêu đã vào bệnh viện>
+
+Có nhiều cách làm mục tiêu vào viện trong lúc bạn đang tấn công. Bao gồm mở hộp quả có chứa chất nổ(Small Explosive Device), bị Leslie đánh nhập viện từ Spin the Wheel trong Casino, hoặc thất bại trong phi vụ của băng đảng.
+
+- <Mục tiêu đã bị cảnh sát bao vây>
+
+Kể từ 21/9/2021, chỉ có phi vụ băng đảng mới cho ra kết quả này.
+
 
