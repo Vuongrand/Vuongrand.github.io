@@ -113,7 +113,7 @@ Trận đánh có thể bị gián đoạn từ nhiều yếu tố. Các yếu t
 
 Nếu mục tiêu của bạn đanh đánh một người chơi khác và người đó đánh bại mục tiêu của bạn. Kết quả sẽ là như trên.
 
-- Mục tiêu> đã bị đánh bại bởi <Người chơi
+- Mục tiêu đã bị đánh bại bởi Người chơi
 
 Nếu nhiều người chơi cùng tấn công một mục tiêu, người kết liễu sẽ thắng và tất cả những người còn lại sẽ nhận được kết quả như trên.
 
