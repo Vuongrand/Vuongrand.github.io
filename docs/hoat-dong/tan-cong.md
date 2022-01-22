@@ -123,4 +123,21 @@ Có nhiều cách làm mục tiêu vào viện trong lúc bạn đang tấn côn
 
 Kể từ 21/9/2021, chỉ có phi vụ băng đảng mới cho ra kết quả này.
 
+## Trang bị 
+
+Để chuẩn bị tấn công thì bạn nên trang bị những vật phẩm như vũ khí (chính, phụ và cận chiến), một vật phẩm tạm thời (đa dạng từ bom khói, bom nổ tới ống chích tăng chỉ số tạm thời). 5 mảnh áo giáp.
+
+### Vũ khí
+
+Mọi vũ khí chính và phụ đều cần đạn để có thể gây sát thương. Mỗi vũ khí có thể chứa một lượng đạn nhất định cũng có nghĩa trong lúc đánh nhau bạn có thể hết đạn giữa chừng.
+
+Vũ khí cận chiến không yêu cầu đạn, tuy nhiên khác với vũ khí chính và phụ, cận chiến không thể gắn thêm phụ kiện để tăng chỉ số cho vũ khí.
+
+### Áo giáp
+
+Mặc áo giáp giúp giảm sát thương nhận vào từ đối thủ; chất lượng áo giáp cho biết % sát thương giảm được. Ví dụ, mảnh giáp có chất lượng 40.00 giảm sát thương nhận được đi 40%, vậy 1000 sát thương sẽ giảm còn 600 sát thương.
+
+## Đánh hội đồng
+
+Khi nhiều người đánh một mục tiêu, điểm phòng thủ của mục tiêu sẽ bị giảm trên mỗi người tham gia.
 
