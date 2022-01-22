@@ -74,7 +74,7 @@ Móc túi đối thủ sẽ đem lại cho người tấn công % nhất định
 
 - Đánh nhập viện (Hospitalizing)
 
-Đánh nhập viện đối thủ sẽ vào bệnh viện với thời gian dài nhất (3 - 3 giờ 30 phút). Lựa chọn này đem lại ít respect, kinh nghiệm nhất trong các lựa chọn. Thường được chọn khi đánh nhau với băng đảng đối địch hoặc để săn tiền thưởng (Bounty Hunting) hoặc khi làm nhiệm vụ được giao bởi NPC.
+Đánh nhập viện đối thủ sẽ vào bệnh viện với thời gian dài nhất (3 - 3 giờ 30 phút). Lựa chọn này đem lại ít kinh nghiệm nhất trong các lựa chọn. Thường được chọn khi đánh nhau với băng đảng đối địch hoặc để săn tiền thưởng (Bounty Hunting) hoặc khi làm nhiệm vụ được giao bởi NPC.
 
 - Bắt giữ (Arresting)
 
