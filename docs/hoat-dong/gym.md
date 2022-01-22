@@ -97,3 +97,15 @@ Ví dụ: phòng Gym Global có 4 nấc mỗi chỉ số, trong khi Permier Fitn
 | Elites | $100,000,000 | 50 năng lượng | - | - | 8.0 | - | Mở khóa Gym George; Dexterity cao hơn 25% so với chỉ số cao thứ hai của bạn.
 | The Sports Science Lab | $500,000,000| 25 năng lượng | 9.0 | 9.0 | 9.0 | 9.0 | Mở khóa Gym Last Round; Đã dùng tối đa 150 Xanax **và** Estasy cộng lại.
 | Fight Club | $2,147,483,647 | 10 năng lượng | - | - | - | - | Vẫn còn là bí ẩn
+
+### Gym tù (Crims Gym)
+
+Gym tù như cái tên chỉ có thể được dùng khi đang trong tù.
+
+Khi trong tù bạn không thể dùng vật phẩm hồi năng lượng.
+
+Tuy nhiên có thể lách được bằng cách sử dụng từ ngân khố của băng đảng.
+
+| Tên phòng gym | Số tiền mở khóa | Năng lượng mỗi lần tập | Strength nhận được | Speed nhận được | Defense nhận được | Dexterity nhận được |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |  ----------- | 
+| Gym tù (Crims Gym) | Mở khóa mặc định | 5 năng lượng | 3.4 | 3.4 | 4.6 | - |
