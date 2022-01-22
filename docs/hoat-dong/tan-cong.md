@@ -30,6 +30,8 @@ Sau 25 lượt, nếu không người chơi nào thắng thì kết quả sẽ l
 
 ## Hình nộm nhân vật
 
+![image](https://user-images.githubusercontent.com/21105806/150632722-5fe1f869-1866-45f9-a93b-d0172fee4daa.png)
+
 Khi tấn công người chơi, bạn có thể đánh trúng vào 14 vị trí cơ thể. 3 trong số đó là chí mạng gây thêm nhiều sát thương hơn so với vị trí khác.
 
 - Đầu _(chí mạng)_
@@ -124,6 +126,8 @@ Có nhiều cách làm mục tiêu vào viện trong lúc bạn đang tấn côn
 Kể từ 21/9/2021, chỉ có phi vụ băng đảng mới cho ra kết quả này.
 
 ## Trang bị 
+
+![image](https://user-images.githubusercontent.com/21105806/150632696-d7075f91-7c22-48d3-904e-398af24c2d82.png)
 
 Để chuẩn bị tấn công thì bạn nên trang bị những vật phẩm như vũ khí (chính, phụ và cận chiến), một vật phẩm tạm thời (đa dạng từ bom khói, bom nổ tới ống chích tăng chỉ số tạm thời). 5 mảnh áo giáp.
 
