@@ -62,7 +62,7 @@ Ví dụ: phòng Gym Global có 4 nấc mỗi chỉ số, trong khi Permier Fitn
 ### Middle-Weight Gym
 
 | Tên phòng gym | Số tiền mở khóa | Năng lượng mỗi lần tập | Strength nhận được | Speed nhận được | Defense nhận được | Dexterity nhận được | Energy tiêu tốn để mở gym tiếp theo|
-| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | 
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | 
 | Knuckle Heads | $50,000 | 10 năng lượng | 4.8 | 4.4 | 4.0 | 4.2 | 6,000 |
 | Pioneer Fitness | $100,000 | 10 năng lượng | 4.4 | 4.6 |4.8 | 4.4 | 7,000 |
 | Anabolic Anomalies | $250,000| 10 năng lượng | 5.0 | 4.6 | 5.2 | 4.6 | 8,000 |
@@ -88,7 +88,7 @@ Ví dụ: phòng Gym Global có 4 nấc mỗi chỉ số, trong khi Permier Fitn
 ### Gym đặc biệt và yêu cầu mở khóa
 
 | Tên phòng gym | Số tiền mở khóa | Năng lượng mỗi lần tập | Strength nhận được | Speed nhận được | Dexterity nhận được | Defense nhận được | Yêu cầu |
-| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |  ----------- | 
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |  
 | Balboas Gym | $50,000,000 | 25 năng lượng | - | - | 7.5 | 7.5 | Mở khóa Gym Cha Cha's; Defense + Dexterity cao hơn 25% so với Strength + Speed.
 | Frontline Fitness | $50,000,000 | 25 năng lượng | 7.5 | 7.5 | - | - | Mở khóa Gym Cha Cha's; Strength + Speed cao hơn 25% so với Defense + Dexterity.
 | Gym 3000 | $100,000,000 | 50 năng lượng | 8.0 | - | - | - | Mở khóa Gym George; Strength cao hơn 25% so với chỉ số cao thứ hai của bạn.
