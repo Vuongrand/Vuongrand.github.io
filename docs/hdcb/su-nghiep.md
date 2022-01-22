@@ -8,7 +8,7 @@ nav_order: 3
 # Sự nghiệp
 {: .no_toc }
 
-## Công việc - Job
+## Công việc - Jobs
 
 ![.](https://i.imgur.com/USEd6fz.png)
 
