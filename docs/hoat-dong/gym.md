@@ -2,7 +2,7 @@
 layout: default
 title: Luyện chỉ số tấn công
 parent: Các hoạt động
-nav_order: 1
+nav_order: 3
 ---
 
 # Luyện chỉ số tấn công
