@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Luyện chỉ số tấn công
+title: Tập Gym
 parent: Các hoạt động
 nav_order: 3
 ---
