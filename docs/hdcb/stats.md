@@ -11,7 +11,7 @@ nav_order: 2
 
 - Trong TORN có hai loại là Battle Stats(Chỉ số chiến đấu) và Working Stats(Chỉ số công việc).
 
-- Chỉ số chiến đấu bao gồm...
+### Chỉ số chiến đấu - Battle Stats
 
 **Speed(Tốc độ):** Tăng tỉ lệ đánh trúng đối phương; tăng cơ hội khi chọn Escape(chạy trốn) khi đánh nhau.
 
@@ -21,7 +21,7 @@ nav_order: 2
 
 **Dexterity(Dẻo dai)**: Càng nhiều điểm thì tỉ lệ né đòn cao hơn. Dex cũng giúp bạn stealth(ẩn mình) tốt hơn, khi ẩn mình thì đối thủ sẽ không biết vừa bị ai đánh.
 
-- Chỉ số làm việc bao gồm...
+### Chỉ số công việc - Working Stats
 
 **Manual labour(Lao động chân tay)**: Cần cho những công việc như army(lính quân đội).
 
