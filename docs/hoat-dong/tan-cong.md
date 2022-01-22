@@ -139,7 +139,9 @@ Vũ khí cận chiến không yêu cầu đạn, tuy nhiên khác với vũ khí
 
 ### Áo giáp
 
-Mặc áo giáp giúp giảm sát thương nhận vào từ đối thủ; chất lượng áo giáp cho biết % sát thương giảm được. Ví dụ, mảnh giáp có chất lượng 40.00 giảm sát thương nhận được đi 40%, vậy 1000 sát thương sẽ giảm còn 600 sát thương.
+Mặc áo giáp giúp giảm sát thương nhận vào từ đối thủ; chất lượng áo giáp cho biết % sát thương giảm được. Ví dụ, mảnh giáp có chất lượng 42.35 giảm sát thương nhận được đi 42,35%, vậy 1000 sát thương sẽ giảm còn 576.5 sát thương.
+
+![image](https://user-images.githubusercontent.com/21105806/150632771-76588ed9-ce1c-4ba8-8275-81c2034430c9.png)
 
 ## Đánh hội đồng
 
