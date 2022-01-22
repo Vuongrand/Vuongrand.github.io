@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Sự nghiệp
+title: Sự nghiệp(Jobs)
 parent: Hướng dẫn cơ bản
-nav_order: 2
+nav_order: 3
 ---
 
 # Sự nghiệp
