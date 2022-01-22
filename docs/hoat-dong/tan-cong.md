@@ -147,3 +147,22 @@ Mặc áo giáp giúp giảm sát thương nhận vào từ đối thủ; chất
 
 Khi nhiều người đánh một mục tiêu, điểm phòng thủ của mục tiêu sẽ bị giảm trên mỗi người tham gia.
 
+### Hiếu chiếu (Aggression)
+
+Aggression liên quan tới **Strength** và **Speed** của người chơi.
+
+Mất tập trung sẽ làm giảm khả năng mục tiêu phản công lại, mục tiêu chỉ có thể đánh lại một lần mỗi lượt trước nhiều người chơi khác. Ví dụ, nếu 2 người cùng hội đồng 1 mục tiêu, mỗi lượt thì mục tiêu sẽ bị đánh 2 lần nhưng chỉ có 50% tỉ lệ phản công. 
+
+### Đàn áp (Suppression)
+
+Suppression liên quan tới **Defense** và **Dexterity** của người chơi.
+
+Mất tập trung ảnh hưởng tới khả năng giảm sát thương và tỉ lệ né đòn của mục tiêu. Chỉ số Def và Dex của mục tiêu sẽ bị giảm một nửa mỗi cấp độ mất tập trung đang được kích hoạt trong trận. Ví dụ, nếu 2 người tấn công 1 mục tiêu có 10 triệu Def và 5 triệu Dex, mỗi lượt tấn công thì mục tiêu sẽ chỉ còn 5 triệu Def và 2,5 triệu Dex.
+
+## Cài đặt cách tấn công
+
+Bạn có thể cài đặt tấn công của mình tại [đây](https://www.torn.com/preferences.php#tab=attack-preferences)
+
+Cài đặt tấn công bao gồm nhiều lựa chọn dưới đây là của mình để bạn tham khảo
+
+![image](https://user-images.githubusercontent.com/21105806/150633203-ba268c91-b2ed-4782-b1b2-e43055df5708.png)
