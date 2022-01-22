@@ -45,7 +45,10 @@ Energy có thể dùng trong những việc sau: Training (Luyện tập), Hunti
 
 <small>Nhưng vẫn chỉ là đồn thôi, bạn đọc chú ý cân nhắc</small>
 
+_Và còn nhiều việc khác sẽ đi tới ở  phần nâng cao._
+
 Ngoài ra cứ 15 phút bạn sẽ được hồi lại 5 Energy, nếu như là Donator sẽ chỉ còn 10 phút.
+
 
 ### Thanh tập trung (Nerve bar)
 
