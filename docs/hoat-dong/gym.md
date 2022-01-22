@@ -84,3 +84,16 @@ Ví dụ: phòng Gym Global có 4 nấc mỗi chỉ số, trong khi Permier Fitn
 | Last Round | $50,000,000 | 10 năng lượng | 6.8 | 6.6 | 7.0 | 6.6 | 84,535 |
 | The Edge | $75,000,000 | 10 năng lượng | 6.8 | 7.0 | 7.0 | 6.8 | 106,305 |
 | George's | $100,000,000 | 10 năng lượng | 7.3 | 7.3 | 7.3 | 7.3 | Không |
+
+### Gym đặc biệt và yêu cầu mở khóa
+
+| Tên phòng gym | Số tiền mở khóa | Năng lượng mỗi lần tập | Strength nhận được | Speed nhận được | Dexterity nhận được | Defense nhận được | Yêu cầu |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |  ----------- | 
+| Balboas Gym | $50,000,000 | 25 năng lượng | - | - | 7.5 | 7.5 | Mở khóa Gym Cha Cha's; Defense + Dexterity cao hơn 25% so với Strength + Speed.
+| Frontline Fitness | $50,000,000 | 25 năng lượng | 7.5 | 7.5 | - | - | Mở khóa Gym Cha Cha's; Strength + Speed cao hơn 25% so với Defense + Dexterity.
+| Gym 3000 | $100,000,000 | 50 năng lượng | 8.0 | - | - | - | Mở khóa Gym George; Strength cao hơn 25% so với chỉ số cao thứ hai của bạn.
+| Mr. Isoyamas | $100,000,000 | 50 năng lượng | - | - | - | 8.0 | Mở khóa Gym George; Defense cao hơn 25% so với chỉ số cao thứ hai của bạn.
+| Total Rebound | $100,000,000 | 50 năng lượng | - | 8.0 | - | - | Mở khóa Gym George; Speed cao hơn 25% so với chỉ số cao thứ hai của bạn.
+| Elites | $100,000,000 | 50 năng lượng | - | - | 8.0 | - | Mở khóa Gym George; Dexterity cao hơn 25% so với chỉ số cao thứ hai của bạn.
+| The Sports Science Lab | $500,000,000| 25 năng lượng | 9.0 | 9.0 | 9.0 | 9.0 | Mở khóa Gym Last Round; Đã dùng tối đa 150 Xanax **và** Estasy cộng lại.
+| Fight Club | $2,147,483,647 | 10 năng lượng | - | - | - | - | Vẫn còn là bí ẩn
