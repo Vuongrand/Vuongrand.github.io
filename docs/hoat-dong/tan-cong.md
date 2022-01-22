@@ -18,7 +18,7 @@ Tấn công là việc dùng năng lượng để đánh một người chơi kh
 
 ---
 
-### Cơ bản
+## Cơ bản
 
 Tấn công một người chơi tốn 25 năng lượng mỗi lần, ngoại trừ lúc đang phê Nước tình yêu(Love Juice) vào ngày sự kiện Valentine hằng năm thì sẽ giảm còn 15 năng lượng mỗi lần.
 
@@ -28,7 +28,7 @@ Mỗi lượt cách nhau 1 giây.
 
 Sau 25 lượt, nếu không người chơi nào thắng thì kết quả sẽ là Hòa(Stalemate). Sau 5 phút, nếu 25 lượt chưa được dùng hết, kết quả sẽ là hết giờ - Người tấn công sẽ thua.
 
-### Hình nộm nhân vật
+## Hình nộm nhân vật
 
 Khi tấn công người chơi, bạn có thể đánh trúng vào 14 vị trí cơ thể. 3 trong số đó là chí mạng gây thêm nhiều sát thương hơn so với vị trí khác.
 
@@ -56,9 +56,9 @@ Tỉ lệ chí mạng khởi điểm là 12% và có thể tăng thêm 3% sau kh
 
 Sát thương vào cổ họng có thể tăng thêm 10% với Khóa học BIO2380: Fundamentals of Neurobiology.
 
-### Kết quả trận đấu
+## Kết quả trận đấu
 
-#### Chiến thắng
+### Chiến thắng
 
 Có nhiều kết quả từ một lần tấn công, dù có đánh bại đối thủ hay không:
 
@@ -86,7 +86,7 @@ Trong thành phố có nhiều NPC khi đánh bại bạn có thể cướp các
 
 Một số nhiệm vụ cho bạn thêm nhiều lựa chọn khác sau khi đánh bại đối thủ như: "Hôn (Kiss)", "Tra khảo (Interrogate)", ..."
 
-#### Không thắng
+### Không thắng
 
 - Chạy trốn (Escaping)
 
