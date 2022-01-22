@@ -27,10 +27,10 @@ nav_order: 2
 
 ![image](https://user-images.githubusercontent.com/21105806/150629654-e0202299-3d15-40d8-99d7-a11606c4f14e.png)
 
-
 **Manual labour(Lao động chân tay)**: Cần cho những công việc như army(lính quân đội).
 
 **Intelligence(Trí óc)**: Cần cho những công việc như lập trình(programming). Intelligence cũng giúp ích trong một vài crime bạn làm.
 
 **Endurance(Bền bỉ)**: Cần cho những việc khó khăn kéo dài!
 
+Xem thêm phần [Sự nghiệp](https://vuongrand.github.io/docs/hdcb/su-nghiep)
