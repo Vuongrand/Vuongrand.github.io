@@ -135,11 +135,13 @@ Kể từ 21/9/2021, chỉ có phi vụ băng đảng mới cho ra kết quả n
 
 Mọi vũ khí chính và phụ đều cần đạn để có thể gây sát thương. Mỗi vũ khí có thể chứa một lượng đạn nhất định cũng có nghĩa trong lúc đánh nhau bạn có thể hết đạn giữa chừng.
 
+Vũ khí chính và phụ có thể tăng sát thương, độ chính xác, tỉ lệ chí mạnh, ... bằng cách gắn thêm phụ kiện (Mods) tùy loại. Phụ kiện có thể kiếm được thông qua việc làm nhiệm vụ của NPC giao cho và dùng điểm nhiệm vụ đổi lấy phụ kiện. 
+
 Vũ khí cận chiến không yêu cầu đạn, tuy nhiên khác với vũ khí chính và phụ, cận chiến không thể gắn thêm phụ kiện để tăng chỉ số cho vũ khí.
 
 ### Áo giáp
 
-Mặc áo giáp giúp giảm sát thương nhận vào từ đối thủ; chất lượng áo giáp cho biết % sát thương giảm được. Ví dụ, mảnh giáp có chất lượng 42.35 giảm sát thương nhận được đi 42,35%, vậy 1000 sát thương sẽ giảm còn 576.5 sát thương.
+Mặc áo giáp giúp giảm sát thương nhận vào từ đối thủ bất chấp Strength cao cỡ nào; chất lượng áo giáp cho biết % sát thương giảm được. Ví dụ, mảnh giáp có chất lượng 42.35 giảm sát thương nhận được đi 42,35%, vậy 1000 sát thương sẽ giảm còn 576.5 sát thương.
 
 ![image](https://user-images.githubusercontent.com/21105806/150632771-76588ed9-ce1c-4ba8-8275-81c2034430c9.png)
 
