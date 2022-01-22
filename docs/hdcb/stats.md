@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Chỉ số (Stats)
+title: Chỉ số
 parent: Hướng dẫn cơ bản
 nav_order: 2
 ---
